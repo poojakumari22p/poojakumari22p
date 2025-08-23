@@ -12,8 +12,7 @@ Welcome to my GitHub code space 🚀
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>   
 </p>
 
 ---
@@ -32,6 +31,6 @@ Graph database project using Neo4j to manage hospital data efficiently.
 ---
 
 ### 📫 Connect With Me  
-- ✉️ Email: **yourmail@gmail.com**  
-- 🔗 LinkedIn: [Your Profile](https://linkedin.com/in/your-link)  
-- 🌐 Portfolio: [My Website](https://sites.google.com/view/pooja-kumari/home)  
+- ✉️ Email: **poojasingh02209@gmail.com**  
+- 🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/pooja-kumari-b602aa240/)  
+  
