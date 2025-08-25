@@ -21,14 +21,8 @@ Welcome to my GitHub code space 🚀
 
 ### 📂 Featured Projects  
 
-🔹 [Gesture-Genie (Indian Sign Language Recognition)](https://github.com/poojakumari22p/gesture-genie)  
+🔹 [Gesture-Genie (Indian Sign Language Recognition)](https://github.com/poojakumari22p/Gesture-Genie-Real-Time-ISL-Recognition-with-Voice-Output-)  
 A real-time **Indian Sign Language recognition system** using Computer Vision & YOLO models.  
-
-🔹 [Hospital Management System](https://github.com/poojakumari22p/hospital-management)  
-Designed and developed a Hospital Management System with SRS, DFDs, and rigorous testing.  
-
-🔹 [Neo4j NoSQL Database Exploration](https://github.com/poojakumari22p/neo4j-database)  
-Explored **Neo4j Graph Database** features and compared NoSQL vs SQL performance.  
 
 ---
 
