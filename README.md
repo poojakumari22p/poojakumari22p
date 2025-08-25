@@ -40,7 +40,6 @@ A real-time **Indian Sign Language recognition system** using Computer Vision & 
 ### 📫 Connect With Me  
 - ✉️ Email: **poojasingh02209@mail.com**  
 - 🔗 LinkedIn: [Pooja Kumari](https://www.linkedin.com/in/pooja-kumari-b602aa240/)  
-- 🌐 Portfolio: [My Website](https://sites.google.com/view/pooja-kumari/home)  
 
 ---
 ⭐️ From [poojakumari22p](https://github.com/poojakumari22p)  
